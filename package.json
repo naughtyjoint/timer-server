@@ -1,0 +1,11 @@
+{
+  "name": "timer-server",
+  "version": "1.0.0",
+  "description": "A real time timer server based on socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wade Lee",
+  "license": "ISC"
+}
